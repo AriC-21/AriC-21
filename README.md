@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **arindamct@gmail.com**
 
-- ⚡ Fun fact **I think about missing semicolons in code.**
+- ⚡ Fun fact **I think about a bug in code for hours, then found missing semicolons.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
