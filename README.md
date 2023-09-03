@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DSA, Machine Learning**
 
-- 📫 How to reach me **arindamct@gmail.com**
+- 📫 How to reach me **arindam.jara21@gmail.com**
 
 - ⚡ Fun fact **I think about a bug in code for hours, then found missing semicolons.**
 
